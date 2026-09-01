@@ -6,7 +6,7 @@ import emma from "./pics/emma.jpg";
 import micheal from "./pics/micheal.jpg";
 import sophia from "./pics/sophia.jpg";
 import ScrollAnimation from "./scrollAnimation";
-import { Scroll } from "lucide-react";
+
 const team = [
   {
     id: 1,
