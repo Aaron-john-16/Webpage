@@ -81,21 +81,21 @@ function Footer() {
             <div className="mt-5 flex justify-center gap-4 sm:justify-start">
 
               <a
-                href="#"
+                href="https://www.instagram.com"
                 className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/5 transition duration-300 hover:-translate-y-1 "
               >
                 <FaInstagram />
               </a>
 
               <a
-                href="#"
+                href="https://www.youtube.com"
                 className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/5 transition duration-300 hover:-translate-y-1 "
               >
                 <FaYoutube />
               </a>
 
               <a
-                href="#"
+                href="https://twitter.com"
                 className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/5 transition duration-300 hover:-translate-y-1 "
               >
                 <FaTwitter />

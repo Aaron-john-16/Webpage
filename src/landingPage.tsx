@@ -30,7 +30,7 @@ function LandingPage() {
         <div className="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
 
           
-          <a className="flex items-center gap-2">
+          <div className="flex items-center gap-2">
             <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-cyan-400 to-blue-600 flex items-center justify-center">
               <LucideGem size={20} />
             </div>
@@ -38,7 +38,7 @@ function LandingPage() {
             <span className="text-2xl font-bold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500">
               Zenora
             </span>
-          </a>
+          </div>
 
           
           <div className="hidden md:flex items-center gap-8 text-sm text-slate-300">
